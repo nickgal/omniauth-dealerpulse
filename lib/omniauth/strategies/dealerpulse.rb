@@ -4,7 +4,7 @@ module OmniAuth
   module Strategies
     class Dealerpulse < OmniAuth::Strategies::OAuth2
       option :name, 'dealerpulse'
-      option :client_options, site: 'http://lvh.me:3000'
+      option :client_options, site: 'https://mydealerpulse.com'
 
       # These are called after authentication has succeeded. If
       # possible, you should try to set the UID without making
