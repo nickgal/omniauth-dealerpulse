@@ -33,7 +33,7 @@ GEM
     parser (2.6.0.0)
       ast (~> 2.4.0)
     psych (3.1.0)
-    rack (2.0.6)
+    rack (2.2.3)
     rainbow (3.0.0)
     rake (13.0.6)
     rubocop (0.66.0)
